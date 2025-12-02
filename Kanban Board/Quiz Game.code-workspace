@@ -1,0 +1,19 @@
+{
+    "folders": [
+		{
+			"path": "../Quiz Game"
+		},
+		{
+			"path": "../myport"
+		},
+		{
+			"path": "../clock"
+		},
+		{
+			"path": "."
+		}
+	],
+    "settings": {
+        "liveServer.settings.multiRootWorkspaceName": "Kanban Board"
+    }
+}
